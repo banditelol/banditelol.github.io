@@ -4,4 +4,5 @@ h2 {size:5px;}
 
 </style>
 
-    
+{{ if .Params.math }}{{ partial "helpers/katex.html" . }}{{ end }}
+

@@ -54,4 +54,10 @@ ignoreErrors = ["error-disable-taxonomy"]
 
   twitter_cards = "true"
 
-
+# Helper to render superscript and footnote
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      footnote = true
+    [markup.goldmark.renderer]
+      unsafe = true
