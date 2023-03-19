@@ -52,7 +52,7 @@ Yang masih agak *relevant* dengan kondisi umum adalah kedekatannya dengan pusat 
 Untuk rumahnya sendiri saya juga memiliki beberapa keinginan yang menjadi filter saat saya browsing-browsing rumah di beberapa platform (seperti OLX, 99.co, etc). yaitu
 
 1. Akses jalan yang yang memfasilitasi mobil (biar kalau ada yang mau bertamu enak)
-2. Luas tanah 70-100 m^2^ agar masih ada ruang gerak dan tidak terlalu besar sehingga sulit darawat
+2. Luas tanah 70-100 m{{<sup 2>}} agar masih ada ruang gerak dan tidak terlalu besar sehingga sulit darawat
 3. Minimal ada dua ruang tidur, dan salah satu di lantai 1 kalau 2 lantai, sehingga bila orang tua ingin menginap tidak perlu naik tangga dulu
 4. Terdapat area bekerja karena saya dan istri sama-sama bekerja secara remote
 5. Rumah yang hemat energi (dengan penerangan baik di siang hari, sirkulasi yang menyejukkan, dan insulasi yang cukup sehingga tidak terlalu dingin saat malam) dan desain yang tidak macem-macem sehingga sulit di maintain.
